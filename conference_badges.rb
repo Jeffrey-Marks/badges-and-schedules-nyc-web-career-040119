@@ -10,6 +10,6 @@ end
 
 def assign_rooms(speakers_list)
   list_of_rooms = (1..7).to_a
-  
+  room_assignments = {}
   
 end

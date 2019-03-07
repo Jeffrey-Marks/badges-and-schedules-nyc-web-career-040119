@@ -10,6 +10,6 @@ end
 
 def assign_rooms(speakers_list)
   for room in (1..7)
-    "Hello"
+    "Hello, "
   end
 end

@@ -15,3 +15,7 @@ def assign_rooms(speakers_list)
   end
   room_list
 end
+
+def printer
+  puts "yes"
+end

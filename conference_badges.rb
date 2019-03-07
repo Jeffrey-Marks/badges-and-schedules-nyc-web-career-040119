@@ -9,7 +9,7 @@ def batch_badge_creator(names_array)
 end
 
 def assign_rooms(speakers_list)
-  list_of_rooms = (1..7).to_a
-  room_assignments = {}
-  
+  for room in (1..7)
+    "Hello"
+  end
 end
